@@ -13,12 +13,9 @@ Requirements
 	wget           (only if web-download functionality required)
 
 
-Documentation
+Execute the example script
 =
+To execute the example script just execute the folowing command on your console:
 
-
-
-Support
-=
-
+	$ php /path/to/phpcli/example.cli.php
 
