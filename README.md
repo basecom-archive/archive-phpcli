@@ -1,3 +1,8 @@
+# DEPRICATED
+Use this instead: [Symfony2 Console Compnent](http://symfony.com/doc/current/components/console/introduction.html)
+
+***
+
 phpcli
 ==
 This framework offers basic input/output handlers for php scripts running in CLI mode.
